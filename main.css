@@ -1,0 +1,135 @@
+body{
+    margin: 0px;
+}
+header{
+    margin: 0px;
+}
+.background{
+position: absolute;
+top:950px
+}
+
+#imageBack{
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.about{
+    width: 500px;
+    margin-left: 50px;
+    margin-top:0px;
+    padding: 50px;
+}
+.aboutP{
+    width: 500px;
+    margin-left: 100px;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 23.86px;
+    
+}
+
+#CnTower{
+    position: absolute;
+    top: 1px;
+    width: 500px;
+    height: auto;
+    margin-left: 100px;
+    /* z-index: 1; */
+}
+
+.container{
+    margin-top: 0;
+    background-color: #D9D9D9;
+    background-size: 500px auto;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.container2{
+    width: 100%;
+    height:100vh;
+}
+
+#logo{
+    position: absolute;
+    top:34px;
+    right:150px
+}
+
+.yellowBox{
+    background-color: #FFD600;
+    opacity: 70%;
+    position: absolute;
+    top: 300px;
+    left: 50px;
+    width:450px;
+    height:586px;
+}
+
+.whiteBox{
+    background-color: rgb(233, 231, 231);
+    position: absolute;
+    width:450px;
+    height:100vh;
+    left: 100px;
+}
+
+.blue-box{
+    position: absolute;
+    top: 1500px;
+    right: 50px;
+    width: 1400px;
+    height: 262px;
+    background-color: #0950A3;
+    opacity: 80%;
+}
+.imgContainer{
+    position: absolute;
+    left: 150px;
+}
+
+.intro{
+    position: absolute;
+    top:500px;
+    right:250px;
+    width: 468px;
+    height: 236px;
+    line-height: 23.86px;
+    font-size: 20px;
+    font-weight: 400;
+}
+#nav-list ul{
+    display: flex;
+    position: absolute;
+    top:830px;
+    right: 300px;
+    list-style: none;
+    gap:30px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26.25px;
+}
+
+.teamPage{
+    width: 100%;
+    height: 100vh;
+    margin-top: 0px;
+}
+.ourTeam{
+    margin: 0px;
+    width: 100%;
+    height: 100vh;
+}
+.container3, .secondLogo{
+    margin: 0px;
+    width: 100%;
+    height: 100vh;
+}
